@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,oBAAoB","sources":["src/constants.js"],"sourcesContent":["const TODOS_STORAGE_KEY = 'todos';"],"names":[],"version":3,"file":"ToDo.2f4a76fd.js.map","sourceRoot":"/__parcel_source_root/"}
